@@ -1,7 +1,7 @@
+
 import 'package:flutter/material.dart';
 import 'package:twitter/presentation/router.dart';
 
-import 'presentation/page/home/home_page.dart';
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
